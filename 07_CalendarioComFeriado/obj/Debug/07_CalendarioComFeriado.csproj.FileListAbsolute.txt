@@ -1,0 +1,7 @@
+C:\Projetos\POO\07_CalendarioComFeriado\bin\Debug\07_CalendarioComFeriado.exe.config
+C:\Projetos\POO\07_CalendarioComFeriado\bin\Debug\07_CalendarioComFeriado.exe
+C:\Projetos\POO\07_CalendarioComFeriado\bin\Debug\07_CalendarioComFeriado.pdb
+C:\Projetos\POO\07_CalendarioComFeriado\obj\Debug\07_CalendarioComFeriado.csproj.AssemblyReference.cache
+C:\Projetos\POO\07_CalendarioComFeriado\obj\Debug\07_CalendarioComFeriado.csproj.CoreCompileInputs.cache
+C:\Projetos\POO\07_CalendarioComFeriado\obj\Debug\07_CalendarioComFeriado.exe
+C:\Projetos\POO\07_CalendarioComFeriado\obj\Debug\07_CalendarioComFeriado.pdb

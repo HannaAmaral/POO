@@ -1,0 +1,7 @@
+C:\Projetos\POO\03_Propriedades\obj\Debug\03_Propriedades.csproj.AssemblyReference.cache
+C:\Projetos\POO\03_Propriedades\obj\Debug\03_Propriedades.csproj.CoreCompileInputs.cache
+C:\Projetos\POO\03_Propriedades\bin\Debug\03_Propriedades.exe.config
+C:\Projetos\POO\03_Propriedades\bin\Debug\03_Propriedades.exe
+C:\Projetos\POO\03_Propriedades\bin\Debug\03_Propriedades.pdb
+C:\Projetos\POO\03_Propriedades\obj\Debug\03_Propriedades.exe
+C:\Projetos\POO\03_Propriedades\obj\Debug\03_Propriedades.pdb

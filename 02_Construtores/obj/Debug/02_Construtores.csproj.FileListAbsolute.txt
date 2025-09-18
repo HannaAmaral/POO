@@ -1,0 +1,7 @@
+C:\Projetos\POO\02_Construtores\bin\Debug\02_Construtores.exe.config
+C:\Projetos\POO\02_Construtores\bin\Debug\02_Construtores.exe
+C:\Projetos\POO\02_Construtores\bin\Debug\02_Construtores.pdb
+C:\Projetos\POO\02_Construtores\obj\Debug\02_Construtores.csproj.AssemblyReference.cache
+C:\Projetos\POO\02_Construtores\obj\Debug\02_Construtores.csproj.CoreCompileInputs.cache
+C:\Projetos\POO\02_Construtores\obj\Debug\02_Construtores.exe
+C:\Projetos\POO\02_Construtores\obj\Debug\02_Construtores.pdb

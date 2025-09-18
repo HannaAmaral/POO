@@ -1,0 +1,7 @@
+C:\Projetos\POO\08_Aluno\bin\Debug\08_Aluno.exe.config
+C:\Projetos\POO\08_Aluno\bin\Debug\08_Aluno.exe
+C:\Projetos\POO\08_Aluno\bin\Debug\08_Aluno.pdb
+C:\Projetos\POO\08_Aluno\obj\Debug\08_Aluno.csproj.AssemblyReference.cache
+C:\Projetos\POO\08_Aluno\obj\Debug\08_Aluno.csproj.CoreCompileInputs.cache
+C:\Projetos\POO\08_Aluno\obj\Debug\08_Aluno.exe
+C:\Projetos\POO\08_Aluno\obj\Debug\08_Aluno.pdb

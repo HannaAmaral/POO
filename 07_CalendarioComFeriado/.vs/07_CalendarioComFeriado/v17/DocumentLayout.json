@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projetos\\POO\\07_CalendarioComFeriado\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B52C4D23-7C67-41A8-90A7-9FE47406BAF3}|07_CalendarioComFeriado.csproj|c:\\projetos\\poo\\07_calendariocomferiado\\calendario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B52C4D23-7C67-41A8-90A7-9FE47406BAF3}|07_CalendarioComFeriado.csproj|solutionrelative:calendario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B52C4D23-7C67-41A8-90A7-9FE47406BAF3}|07_CalendarioComFeriado.csproj|c:\\projetos\\poo\\07_calendariocomferiado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B52C4D23-7C67-41A8-90A7-9FE47406BAF3}|07_CalendarioComFeriado.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B52C4D23-7C67-41A8-90A7-9FE47406BAF3}|07_CalendarioComFeriado.csproj|c:\\projetos\\poo\\07_calendariocomferiado\\feriado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B52C4D23-7C67-41A8-90A7-9FE47406BAF3}|07_CalendarioComFeriado.csproj|solutionrelative:feriado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Feriado.cs",
+              "DocumentMoniker": "C:\\Projetos\\POO\\07_CalendarioComFeriado\\Feriado.cs",
+              "RelativeDocumentMoniker": "Feriado.cs",
+              "ToolTip": "C:\\Projetos\\POO\\07_CalendarioComFeriado\\Feriado.cs",
+              "RelativeToolTip": "Feriado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T22:54:54.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calendario.cs",
+              "DocumentMoniker": "C:\\Projetos\\POO\\07_CalendarioComFeriado\\Calendario.cs",
+              "RelativeDocumentMoniker": "Calendario.cs",
+              "ToolTip": "C:\\Projetos\\POO\\07_CalendarioComFeriado\\Calendario.cs",
+              "RelativeToolTip": "Calendario.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowE0AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T22:53:07.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos\\POO\\07_CalendarioComFeriado\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Projetos\\POO\\07_CalendarioComFeriado\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T22:51:21.248Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Projetos\POO\01_DeclaracaoClasse\bin\Debug\01_DeclaracaoClasse.exe.config
+C:\Projetos\POO\01_DeclaracaoClasse\bin\Debug\01_DeclaracaoClasse.exe
+C:\Projetos\POO\01_DeclaracaoClasse\bin\Debug\01_DeclaracaoClasse.pdb
+C:\Projetos\POO\01_DeclaracaoClasse\obj\Debug\01_DeclaracaoClasse.csproj.AssemblyReference.cache
+C:\Projetos\POO\01_DeclaracaoClasse\obj\Debug\01_DeclaracaoClasse.csproj.CoreCompileInputs.cache
+C:\Projetos\POO\01_DeclaracaoClasse\obj\Debug\01_DeclaracaoClasse.exe
+C:\Projetos\POO\01_DeclaracaoClasse\obj\Debug\01_DeclaracaoClasse.pdb
