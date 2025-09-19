@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projetos\\POO\\09_Heranca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC86E2C5-2508-444E-B3C8-B68F6E20A9EB}|09_Heranca.csproj|c:\\projetos\\poo\\09_heranca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC86E2C5-2508-444E-B3C8-B68F6E20A9EB}|09_Heranca.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC86E2C5-2508-444E-B3C8-B68F6E20A9EB}|09_Eranca.csproj|C:\\Projetos\\POO\\09_Heranca\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC86E2C5-2508-444E-B3C8-B68F6E20A9EB}|09_Eranca.csproj|solutionrelative:pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC86E2C5-2508-444E-B3C8-B68F6E20A9EB}|09_Heranca.csproj|C:\\Projetos\\POO\\09_Heranca\\pessoajuridica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC86E2C5-2508-444E-B3C8-B68F6E20A9EB}|09_Heranca.csproj|solutionrelative:pessoajuridica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC86E2C5-2508-444E-B3C8-B68F6E20A9EB}|09_Eranca.csproj|C:\\Projetos\\POO\\09_Heranca\\pessoafisica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC86E2C5-2508-444E-B3C8-B68F6E20A9EB}|09_Eranca.csproj|solutionrelative:pessoafisica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos\\POO\\09_Heranca\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Projetos\\POO\\09_Heranca\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T00:49:52.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Projetos\\POO\\09_Heranca\\Pessoa.cs",
+              "RelativeDocumentMoniker": "Pessoa.cs",
+              "ToolTip": "C:\\Projetos\\POO\\09_Heranca\\Pessoa.cs",
+              "RelativeToolTip": "Pessoa.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T00:50:39.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PessoaFisica.cs",
+              "DocumentMoniker": "C:\\Projetos\\POO\\09_Heranca\\PessoaFisica.cs",
+              "RelativeDocumentMoniker": "PessoaFisica.cs",
+              "ToolTip": "C:\\Projetos\\POO\\09_Heranca\\PessoaFisica.cs",
+              "RelativeToolTip": "PessoaFisica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T00:59:19.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PessoaJuridica.cs",
+              "DocumentMoniker": "C:\\Projetos\\POO\\09_Heranca\\PessoaJuridica.cs",
+              "RelativeDocumentMoniker": "PessoaJuridica.cs",
+              "ToolTip": "C:\\Projetos\\POO\\09_Heranca\\PessoaJuridica.cs",
+              "RelativeToolTip": "PessoaJuridica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T22:54:29.612Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

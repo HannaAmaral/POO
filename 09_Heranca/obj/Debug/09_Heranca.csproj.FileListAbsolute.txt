@@ -1,0 +1,7 @@
+C:\Projetos\POO\09_Encaranca\bin\Debug\09_Encaranca.exe.config
+C:\Projetos\POO\09_Encaranca\bin\Debug\09_Encaranca.exe
+C:\Projetos\POO\09_Encaranca\bin\Debug\09_Encaranca.pdb
+C:\Projetos\POO\09_Encaranca\obj\Debug\09_Heranca.csproj.AssemblyReference.cache
+C:\Projetos\POO\09_Encaranca\obj\Debug\09_Heranca.csproj.CoreCompileInputs.cache
+C:\Projetos\POO\09_Encaranca\obj\Debug\09_Encaranca.exe
+C:\Projetos\POO\09_Encaranca\obj\Debug\09_Encaranca.pdb
