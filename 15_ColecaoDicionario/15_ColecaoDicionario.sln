@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15_ColecaoDicionario", "15_ColecaoDicionario.csproj", "{01C32B94-15A6-4633-93E0-9D0B6E8ED4CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01C32B94-15A6-4633-93E0-9D0B6E8ED4CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01C32B94-15A6-4633-93E0-9D0B6E8ED4CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01C32B94-15A6-4633-93E0-9D0B6E8ED4CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01C32B94-15A6-4633-93E0-9D0B6E8ED4CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2AACF7D2-E4D8-4470-8403-3B736C1C834F}
+	EndGlobalSection
+EndGlobal
