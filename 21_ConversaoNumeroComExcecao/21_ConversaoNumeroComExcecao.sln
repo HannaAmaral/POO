@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21_ConversaoNumeroComExcecao", "21_ConversaoNumeroComExcecao.csproj", "{CEC40573-45EE-4D01-AE82-0DB500C77A27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEC40573-45EE-4D01-AE82-0DB500C77A27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEC40573-45EE-4D01-AE82-0DB500C77A27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEC40573-45EE-4D01-AE82-0DB500C77A27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEC40573-45EE-4D01-AE82-0DB500C77A27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA07F94E-C3E6-4773-BA44-9BFDE8E11B47}
+	EndGlobalSection
+EndGlobal
